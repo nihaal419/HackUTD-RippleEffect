@@ -34,6 +34,10 @@ Access the project GitHub with this QR code:
 
 - TODO: How does the valve work?
 
+- TODO: Write how the predict functionality will be evaluated
+
+## Ideas 💡
+
 - TODO: What can a solution look like?
 
 ## Workshop: Introduction to Mobile Development
