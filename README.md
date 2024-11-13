@@ -39,8 +39,10 @@ Access the project GitHub with this QR code:
   - Teams will be given data for an unseen well prior to judging as input data for inferencing. The model will be evaluated based on its ability to accurately predict when a hydrate is likely to form for this well. 
 
 ## Ideas 💡
+Here are some ideas to help you get started, but we encourage you to not limit yourself to these suggesstions and think outside the box!
 
-- 
+- Create a User Interface - consider what features/views would be most relevant and useful for a lease operator.
+- Create an alerting mechanism - this allows for prompt action can be taken when a hydrate is detected.
 
 ## Workshop: Introduction to Mobile Development
 **Check out our workshop at 3:30 PM in ECSW 1.315**
