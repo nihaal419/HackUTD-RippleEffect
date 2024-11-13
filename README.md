@@ -31,9 +31,9 @@ Access the project GitHub with this QR code:
             ---------------=-----========------------------------------
 
 - What are the data streams available to us and what do they mean?
-  - Inj Gas Meter Volume Instantaneous: This stream represents the actual volume of gas being injected into the well at the given timestamp.
-  - Inj Gas Meter Volume Setpoint: This stream represents the target or desired volume of gas to be injected into the well for optimal production. 
-  - Inj Gas Valve Percent Open: This stream represents the percentage that the valve controlling the gas injection volume is open at a given timestamp. 0% indicates that the valve is fully closed and 100% indicates that the valve is fully open. The valve is used to control the amount of gas flowing into a well and is automatically adjusted to meet the gas injection volume setpoint (think of this as the gas pedal in your car). 
+  - **Inj Gas Meter Volume Instantaneous**: This stream represents the actual volume of gas being injected into the well at the given timestamp.
+  - **Inj Gas Meter Volume Setpoint**: This stream represents the target or desired volume of gas to be injected into the well for optimal production. 
+  - **Inj Gas Valve Percent Open**: This stream represents the percentage that the valve controlling the gas injection volume is open at a given timestamp. 0% indicates that the valve is fully closed and 100% indicates that the valve is fully open. The valve is used to control the amount of gas flowing into a well and is automatically adjusted to meet the gas injection volume setpoint (think of this as the gas pedal in your car). 
 
 - How will the extention be evaluated?
   - Teams will be given data for an unseen well prior to judging as input data for inferencing. The model will be evaluated based on its ability to accurately predict when a hydrate is likely to form for this well. 
